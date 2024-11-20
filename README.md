@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samod Priyankara</h1>
 <h3 align="center">A passionate software engineer from Sri Lanka 🇱🇰</h3>
-
+---
 - 🔭 I’m currently working on **a marketplace**
 
 - 🌱 I’m currently learning **Spring Boot ,Angular, Docker, Google Cloud, AWS**
